@@ -364,7 +364,7 @@ The application employs a distributed data storage model that combines local dev
 
 * iOS: Integration with iOS notification system and App Store guidelines  
 * Android: Integration with Android notification system and Play Store requirements  
-* Web: Browser compatibility and Progressive Web App features  
+* Web: Browser compatibility  
 * Cross-platform: Consistent user experience across all platforms
 
 # **9\. Quality Assurance**
